@@ -1,7 +1,7 @@
 # Car Price Predictor
 
 
-<img src="https://github.com/chayachandana/car_price_prediction/demo.png">
+<img src="demo.png">
 
 
 
